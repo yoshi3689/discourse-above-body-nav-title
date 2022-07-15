@@ -1,2 +1,4 @@
-enable_top_contributors:
-  default: true
+svg_icons:
+  default: 'sort-amount-up'
+  type: 'list'
+  list_type: 'compact'
